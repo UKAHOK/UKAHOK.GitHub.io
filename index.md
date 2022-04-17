@@ -20,6 +20,8 @@ here and today
 这一周会很忙
 加油啊
 坚持到五一
+
+想到那种三四线小城市，读个二本三本专科，就像我家附近的财校，小店很多，吃点烧烤买块蛋糕，脑子里也没有想很多事，似乎也很快乐
 ## Welcome to GitHub 
 
 You can use the [editor on GitHub](https://github.com/UKAHOK/UKAHOK.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
