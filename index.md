@@ -6,7 +6,13 @@ here and today
 
 澄み渡る青空
 
+＃＃突然变得暴躁的自己
 
+下午试图和妈妈视频，却发自己变得尖锐和有攻击性，感觉妈妈在忍受着我的坏脾气
+实在不应该这样，最后挂掉了，自己消化
+可是也没有人能帮我了
+是啊，精神不好
+可是有什么能让我精神好的事呢
 ## Welcome to GitHub 
 
 You can use the [editor on GitHub](https://github.com/UKAHOK/UKAHOK.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
